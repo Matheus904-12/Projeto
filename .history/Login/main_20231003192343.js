@@ -19,7 +19,7 @@ form.addEventListener('submit', (event) => {
         alert('Por favor, preencha os campos.');
     }
     // verif se info ta correta
-    else if (usuario === 'usuario' && senha === 'senha') {
+    else if (usuario === 'Monke' && senha === '12345678') {
         alert('bem-vindo')
 
         //redirect user pra outra pag dps login
